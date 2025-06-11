@@ -1,3 +1,5 @@
+BERIKUT ADALAH LINK DATASET : 
+https://www.kaggle.com/datasets/faldoae/padangfood
 BERIKUT ADALAH LINK GUI ANVIL :
 https://lc4dx73cs6ioazbk.anvil.app/KWLUKQX5XRDFFOAKT3O77TPB
 

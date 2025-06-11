@@ -3,22 +3,15 @@ Repositori ini dibuat untuk memenuhi tugas praktikum mata kuliah Praktikum Penge
 
 🚀 Fitur Utama
 Upload gambar makanan Padang untuk dilakukan klasifikasi otomatis
-
 Antarmuka interaktif menggunakan Anvil (Python-based Web UI)
-
 Akurasi ditingkatkan dengan teknik seperti augmentasi data dan EarlyStopping
-
 Visualisasi proses training: grafik akurasi dan loss
 
 📁 Struktur Proyek
 model/ – Model deep learning dan training script
-
 notebooks/ – Notebook eksplorasi dan pelatihan
-
 anvil_app/ – UI aplikasi berbasis Anvil
-
 data/ – Dataset makanan Padang (struktur folder disesuaikan)
-
 README.md – Dokumentasi dan panduan penggunaan
 
 📊 Tujuan
@@ -26,7 +19,5 @@ Membangun sistem cerdas yang dapat mengenali jenis makanan Padang dari gambar, s
 
 👨‍💻 Kontributor
 Mukhammad Zaenofi – 202351153
-
 Moh. Roihan Amru – 202351162
-
 M. Fachri Naufal Hannan – 202351170

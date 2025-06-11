@@ -1,3 +1,7 @@
+BERIKUT ADALAH LINK GUI ANVIL :
+https://lc4dx73cs6ioazbk.anvil.app/KWLUKQX5XRDFFOAKT3O77TPB
+
+
 🧠 Praktikum Pengenalan Pola – Klasifikasi Gambar Makanan Padang 🇮🇩
 Repositori ini dibuat untuk memenuhi tugas praktikum mata kuliah Praktikum Pengenalan Pola. Proyek ini berfokus pada klasifikasi gambar makanan khas Padang menggunakan model deep learning berbasis CNN (Convolutional Neural Network) yang dilatih dengan TensorFlow/Keras.
 
